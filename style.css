@@ -20,6 +20,7 @@ body {
 .container {
   width: 28rem;
   padding: 0 2rem 2rem 2rem;
+  -webkit-tap-highlight-color: transparent !important;
 }
 
 .head {
