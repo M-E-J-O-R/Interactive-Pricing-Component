@@ -15,6 +15,7 @@ body {
   background-color: hsl(230deg, 100%, 99%);
   flex-direction: column;
   justify-content: center;
+-webkit-tap-highlight-color: transparent !important;
 }
 
 .container {
