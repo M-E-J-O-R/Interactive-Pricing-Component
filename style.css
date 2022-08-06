@@ -173,7 +173,7 @@ body {
   width: 50px;
   height: 40px;
   position: relative;
-  transform: scale(2);
+  transform: scaleX(1.5);
   z-index: 3;
 }
 
